@@ -1,6 +1,8 @@
 Simple JS Calculator
 Introduction
-This branch of the JavaScript calculator project provides a lightweight and easy-to-use calculator for basic arithmetic operations. Unlike the main branch, which features a scientific calculator with advanced functions, this branch is designed to offer a simplified calculator experience.
+This branch of the JavaScript calculator project provides a lightweight and easy-to-use calculator for basic arithmetic operations.
+Unlike the main branch, which features a scientific calculator ,
+this branch is designed to offer a simplified calculator experience.
 Features
 Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division with ease.
 User -Friendly Interface: Simple and intuitive design makes it easy to use for anyone.
@@ -19,5 +21,6 @@ Language: Written in JavaScript.
 Compatibility: Compatible with modern web browsers.
 Integration: Easy to integrate into web applications or use as a standalone calculator.
 Contributing
-If you'd like to contribute to this project, please fork this repository and submit a pull request. We welcome any bug fixes, feature enhancements, or suggestions for improvement.
+If you'd like to contribute to this project, please fork this repository and submit a pull request. 
+We welcome any bug fixes, feature enhancements, or suggestions for improvement.
 If you have any questions or need further assistance, please don't hesitate to ask!
